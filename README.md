@@ -1,4 +1,4 @@
-# Color FLipper
+# Color Flipper
 
 This repository contains JavaScript code for manipulating arrays, specifically focusing on hexadecimal values.
 
